@@ -1,4 +1,3 @@
-const { json } = require('express');
 const express = require('express');
 const pokemon = express.Router();
 const db = require('../config/database');
